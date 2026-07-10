@@ -29,7 +29,7 @@ Customer support call centers generate large volumes of interaction data daily, 
 
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ## Data Limitations
 - CSAT score was missing for ~63% of records; all CSAT-based analysis is calculated only on the subset where feedback was provided.
@@ -37,7 +37,7 @@ Customer support call centers generate large volumes of interaction data daily, 
 - No agent-level identifier was available in the dataset, so performance comparisons are made at the call center location and channel level instead.
 
 ## How to Use
-1. Open `Call_Center_Dashboard.xlsx`
+1. Open `Call_Center_Project.xlsx`
 2. Navigate to the "Dashboard" tab to view the interactive summary
 3. Use slicers to filter by Call Center, Channel, or Reason for Call
 4. Individual pivot table breakdowns are available on their respective sheets
